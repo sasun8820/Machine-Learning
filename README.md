@@ -1,2 +1,2 @@
 # Machine Learning
- Machine Learning Course from QMSS 2023 at Columbia University
+ Machine Learning Course from 2023 QMSS at Columbia University
